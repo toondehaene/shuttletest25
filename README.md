@@ -24,7 +24,7 @@ Praktisch: De shuttle wordt op het veld gelaten. Een shuttle van type A mag niet
 Zoals reeds gezegd moet elke shuttle die op een veld gestart wordt op dat veld blijven tot deze kapot is. Spelers vullen op het einde van elke wedstrijd volgend formulier in:
 
 -------------------
-| **FORMULIER** ||
+| **FORMULIER** | **ANTWOORDEN**|
 |-----------------|------------|
 | Type shuttle: | [ ] A  [x] B  [ ] C |
 | Aantal punten gespeeld: Tel zelf op (bv 76) of schrijf de individuele scores op (bv 21 10 21 18) | 13 21 21 23 |
